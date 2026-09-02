@@ -121,9 +121,8 @@ Notice the "PID/Program name" value for this connection, which is redacted
 Post Exploitation
 The target is now owned. Following are meterpreter commands for key capturing in the target machine
 keyscan_start	Begins capturing keys typed in the target. On the Windows target, open Notepad and type in some text, such as your name.
+
 ## RESULT:
 The Metasploit framework is  used to compromise windows and is examined successfully.
 
 
-## RESULT:
-The Metasploit framework is  used to compromise windows and is examined successfully.
