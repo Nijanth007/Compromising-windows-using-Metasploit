@@ -113,10 +113,6 @@ at meterpreter > prompt, execute this command:
 netstat
 A list of network connections appears, including one to a remote port of 4444, as highlighted in the image below.
 Notice the "PID/Program name" value for this connection, which is redacted 
-## OUTPUT:
-
-<img width="322" height="41" alt="Screenshot 2026-08-24 231930" src="https://github.com/user-attachments/assets/753d6e69-3288-440d-936f-d10eeba618d6" />
-
 
 Post Exploitation
 The target is now owned. Following are meterpreter commands for key capturing in the target machine
